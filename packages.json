@@ -181,6 +181,15 @@
     "repo": "https://github.com/purescript/purescript-bifunctors.git",
     "version": "v3.0.0"
   },
+  "bouzuya-http-method": {
+    "dependencies": [
+      "foldable-traversable",
+      "maybe",
+      "prelude"
+    ],
+    "repo": "https://github.com/bouzuya/purescript-bouzuya-http-method.git",
+    "version": "v0.2.1"
+  },
   "bytestrings": {
     "dependencies": [
       "arrays",
