@@ -1,0 +1,10 @@
+{
+  "bouzuya-datetime": {
+    "dependencies": [
+      "datetime",
+      "prelude"
+    ],
+    "repo": "https://github.com/bouzuya/purescript-bouzuya-datetime.git",
+    "version": "v0.1.0"
+  }
+}
