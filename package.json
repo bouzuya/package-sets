@@ -1,0 +1,14 @@
+{
+  "name": "package-sets",
+  "devDependencies": {
+    "psc-package": "^0.3.2",
+    "purs": "^0.2.0"
+  },
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "psc-package": "psc-package",
+    "start": "node index.js",
+    "test": "npm start"
+  }
+}
