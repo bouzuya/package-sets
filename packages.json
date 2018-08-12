@@ -188,6 +188,15 @@
     "repo": "https://github.com/bouzuya/purescript-bouzuya-datetime.git",
     "version": "v0.1.0"
   },
+  "bouzuya-http-method": {
+    "dependencies": [
+      "foldable-traversable",
+      "maybe",
+      "prelude"
+    ],
+    "repo": "https://github.com/bouzuya/purescript-bouzuya-http-method.git",
+    "version": "v0.3.0"
+  },
   "canvas": {
     "dependencies": [
       "arraybuffer-types",
