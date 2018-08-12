@@ -15,5 +15,13 @@
     ],
     "repo": "https://github.com/bouzuya/purescript-bouzuya-http-method.git",
     "version": "v0.3.0"
+  },
+  "bouzuya-http-status-code": {
+    "dependencies": [
+      "maybe",
+      "prelude"
+    ],
+    "repo": "https://github.com/bouzuya/purescript-bouzuya-http-status-code.git",
+    "version": "v0.2.0"
   }
 }
