@@ -222,6 +222,20 @@
     "repo": "https://github.com/bouzuya/purescript-bouzuya-http-method.git",
     "version": "v0.3.0"
   },
+  "bouzuya-http-server": {
+    "dependencies": [
+      "aff",
+      "avar",
+      "bouzuya-http-method",
+      "bouzuya-http-status-code",
+      "effect",
+      "foreign-object",
+      "node-http",
+      "prelude"
+    ],
+    "repo": "https://github.com/bouzuya/purescript-bouzuya-http-server.git",
+    "version": "v0.1.0"
+  },
   "bouzuya-http-status-code": {
     "dependencies": [
       "maybe",
