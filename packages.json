@@ -28,7 +28,7 @@
       "foreign"
     ],
     "repo": "https://github.com/nwolverson/purescript-aff-promise.git",
-    "version": "v2.0.0"
+    "version": "v2.0.1"
   },
   "affjax": {
     "dependencies": [
@@ -147,7 +147,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-arrays.git",
-    "version": "v5.0.0"
+    "version": "v5.1.0"
   },
   "assert": {
     "dependencies": [
@@ -253,20 +253,6 @@
     ],
     "repo": "https://github.com/bouzuya/purescript-bouzuya-http-status-code.git",
     "version": "v0.2.0"
-  },
-  "halogen-bootstrap": {
-    "dependencies": [
-      "halogen"
-    ],
-    "repo": "https://github.com/slamdata/purescript-halogen-bootstrap.git",
-    "version": "v8.0.0"
-  },
-  "halogen-bootstrap4": {
-    "dependencies": [
-      "halogen"
-    ],
-    "repo": "https://github.com/mschristiansen/purescript-halogen-bootstrap4.git",
-    "version": "v0.1.2"
   },
   "canvas": {
     "dependencies": [
@@ -558,7 +544,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-foldable-traversable.git",
-    "version": "v4.0.0"
+    "version": "v4.1.0"
   },
   "foreign": {
     "dependencies": [
@@ -702,7 +688,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-functors.git",
-    "version": "v3.0.1"
+    "version": "v3.1.0"
   },
   "fuzzy": {
     "dependencies": [
@@ -745,7 +731,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-generics-rep.git",
-    "version": "v6.0.0"
+    "version": "v6.1.0"
   },
   "globals": {
     "dependencies": [],
@@ -785,6 +771,20 @@
     ],
     "repo": "https://github.com/slamdata/purescript-halogen.git",
     "version": "v4.0.0"
+  },
+  "halogen-bootstrap": {
+    "dependencies": [
+      "halogen"
+    ],
+    "repo": "https://github.com/slamdata/purescript-halogen-bootstrap.git",
+    "version": "v8.0.0"
+  },
+  "halogen-bootstrap4": {
+    "dependencies": [
+      "halogen"
+    ],
+    "repo": "https://github.com/mschristiansen/purescript-halogen-bootstrap4.git",
+    "version": "v0.1.2"
   },
   "halogen-css": {
     "dependencies": [
@@ -961,7 +961,7 @@
       "unfoldable"
     ],
     "repo": "https://github.com/purescript/purescript-lists.git",
-    "version": "v5.2.0"
+    "version": "v5.3.0"
   },
   "machines": {
     "dependencies": [
@@ -1242,7 +1242,7 @@
       "maybe"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-nullable.git",
-    "version": "v4.0.0"
+    "version": "v4.1.0"
   },
   "numbers": {
     "dependencies": [
@@ -1295,7 +1295,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-ordered-collections.git",
-    "version": "v1.0.0"
+    "version": "v1.4.0"
   },
   "orders": {
     "dependencies": [
@@ -1481,7 +1481,7 @@
       "tuples"
     ],
     "repo": "https://github.com/purescript-contrib/purescript-profunctor-lenses.git",
-    "version": "v4.0.0"
+    "version": "v5.0.0"
   },
   "proxy": {
     "dependencies": [
@@ -1713,6 +1713,19 @@
     "repo": "https://github.com/purescript/purescript-semirings.git",
     "version": "v5.0.0"
   },
+  "server-sent-events": {
+    "dependencies": [
+      "console",
+      "effect",
+      "functions",
+      "generics-rep",
+      "maybe",
+      "prelude",
+      "web-events"
+    ],
+    "repo": "https://github.com/MichaelXavier/purescript-server-sent-events.git",
+    "version": "v0.2.0"
+  },
   "signal": {
     "dependencies": [
       "aff",
@@ -1751,7 +1764,7 @@
       "tuples"
     ],
     "repo": "https://github.com/bodil/purescript-smolder.git",
-    "version": "v11.0.0"
+    "version": "v11.0.1"
   },
   "sodium": {
     "dependencies": [
@@ -2035,7 +2048,7 @@
       "tuples"
     ],
     "repo": "https://github.com/fehrenbach/purescript-unordered-collections.git",
-    "version": "v1.3.0"
+    "version": "v1.6.0"
   },
   "unsafe-coerce": {
     "dependencies": [],
@@ -2113,7 +2126,7 @@
       "web-storage"
     ],
     "repo": "https://github.com/purescript-web/purescript-web-html.git",
-    "version": "v1.0.0"
+    "version": "v1.2.0"
   },
   "web-socket": {
     "dependencies": [
