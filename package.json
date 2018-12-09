@@ -1,8 +1,8 @@
 {
   "name": "package-sets",
   "devDependencies": {
-    "psc-package": "^0.3.2",
-    "purs": "^0.2.0"
+    "psc-package": "^3.0.1",
+    "purescript": "^0.12.1"
   },
   "main": "index.js",
   "private": true,
