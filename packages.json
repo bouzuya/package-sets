@@ -203,6 +203,16 @@
     "repo": "https://github.com/sharkdp/purescript-bigints.git",
     "version": "v4.0.0"
   },
+  "bouzuya-command-line-option-parser": {
+    "dependencies": [
+      "foreign-object",
+      "prelude",
+      "record",
+      "strings"
+    ],
+    "repo": "https://github.com/bouzuya/purescript-bouzuya-command-line-option-parser.git",
+    "version": "v0.1.0"
+  },
   "bouzuya-datetime": {
     "dependencies": [
       "datetime",
